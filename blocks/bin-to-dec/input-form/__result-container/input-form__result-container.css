@@ -1,0 +1,4 @@
+.input-form__result-container {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,10 @@
+@import url("./__title/border-radius-prewiever__title.css");
+.border-radius-prewiever{
+    position: relative;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #C1E5C0;
+}

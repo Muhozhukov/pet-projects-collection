@@ -1,0 +1,7 @@
+.input-form__input-container {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto 0;
+}

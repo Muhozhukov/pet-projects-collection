@@ -1,0 +1,19 @@
+.border-radius-prewiever-popup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 100px;
+    background-color: rgba(214, 253, 213, 0.938);
+    text-align: center;
+    border-radius: 20px;
+    transition: .2s;
+}
+.border-radius-prewiever-popup p {
+    font-size: 28px;
+}

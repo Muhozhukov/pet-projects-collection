@@ -1,0 +1,7 @@
+@import url("./__text/border-radius-prewiever-result__text.css");
+@import url("./__copy-button/border-radius-prewiever-result__copy-button.css");
+@import url("./__text-container/border-radius-prewiever-result__text-container.css");
+.border-radius-prewiever-result {
+    display: flex;
+    flex-direction: row;
+}

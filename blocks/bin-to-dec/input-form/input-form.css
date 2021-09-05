@@ -1,0 +1,10 @@
+@import url("./__title/input-form__title.css");
+@import url("./__input/input-form__input.css");
+@import url("./__result-field/input-form__result-field.css");
+@import url("./__submit-button/input-form__submit-button.css");
+@import url("./__input-container/input-form__input-container.css");
+@import url("./__result-container/input-form__result-container.css");
+@import url("./__result-error/input-form__result-error.css");
+.input-form{
+
+}

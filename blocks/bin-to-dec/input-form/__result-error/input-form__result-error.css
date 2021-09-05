@@ -1,0 +1,6 @@
+.input-form__result-error {
+    margin: 0;
+    padding: 0;
+    color: red;
+    display: none;
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body class="body">
+    <section class="binary-to-digit">
+        <h2 class="binary-to-digit__title">Binary to digit</h1>
+        <form action="" class="input-form">
+            <h2 class="input-form__title">Enter the binary number</h2>
+            <div class="input-form__input-container">
+                <div class="input-form__result-container">
+                    <input type="text" class="input-form__input" placeholder="Enter the number" required>
+                    <p class="input-form__result-error">Only "0" or "1" digits</p>
+                </div>
+                <!-- <button class="input-form__submit-button" type="submit">Calculate</button> -->
+            </div>
+            <p class="input-form__result-field">Result</p>
+        </form>
+    </section>
+    <section class="border-radius-prewiever">
+        <h2 class="border-radius-prewiever__title">Border radius prewiever</h2>
+        <form name="borderRadiusPrewiever" class="border-radius-prewiever-form">
+            <div class="border-radius-prewiever-form__container">
+                <div class="border-radius-prewiever-form__box">
+                    <input type="range" name="topLeft" step="1" class="border-radius-prewiever-form__input border-radius-prewiever-form__input-top-left" value=0>
+                    <input type="range" name="topRight" step="1" class="border-radius-prewiever-form__input border-radius-prewiever-form__input-top-right" value=0>
+                    <input type="range" name="bottomLeft" step="1" class="border-radius-prewiever-form__input border-radius-prewiever-form__input-bottom-left" value=0>
+                    <input type="range" name="bottomRight" step="1" class="border-radius-prewiever-form__input border-radius-prewiever-form__input-bottom-right" value=0>
+                </div>
+            </div>
+        </form>
+        <div class="border-radius-prewiever-result">
+            <div class="border-radius-prewiever-result__text-container">
+                <p class="border-radius-prewiever-result__text">#</p>
+            </div>
+            <button class="border-radius-prewiever-result__copy-button">Copy</button>
+        </div>
+        <div class="border-radius-prewiever-popup">
+            <p>Copied to Clipboard</p>
+        </div>
+    </section>
+    <script src="bin-to-dec.js"></script>
+    <script src="border-radius-prewiever.js"></script>
+</body>
+</html>

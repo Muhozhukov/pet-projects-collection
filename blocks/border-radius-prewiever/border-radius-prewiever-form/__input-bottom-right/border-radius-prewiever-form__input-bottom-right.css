@@ -1,0 +1,6 @@
+.border-radius-prewiever-form__input-bottom-right {
+    position: absolute;
+    bottom: -10px;
+    right: -3px;
+    transform: rotate(180deg);
+}

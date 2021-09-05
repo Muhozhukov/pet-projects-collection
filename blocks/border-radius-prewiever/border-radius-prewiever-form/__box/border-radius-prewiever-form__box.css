@@ -1,0 +1,7 @@
+.border-radius-prewiever-form__box {
+    position: relative;
+    height: 382px;
+    width: 382px;
+    background: rgb(101,68,255);
+    background: linear-gradient(112deg, rgba(101,68,255,1) 0%, rgba(255,104,111,1) 51%, rgba(201,76,255,1) 100%);
+}

@@ -1,0 +1,12 @@
+/* Bin to Dec */
+@import url("./blocks/bin-to-dec/body/body.css");
+@import url("./blocks/bin-to-dec/input-form/input-form.css");
+@import url("./blocks/bin-to-dec/binary-to-digit/binary-to-digit.css");
+@import url("./blocks/bin-to-dec/input-form/__result-error/_active/input-form__result-error_active.css");
+
+/* Border radius prewiever */
+@import url("./blocks/border-radius-prewiever/border-radius-prewiever/border-radius-prewiever.css");
+@import url("./blocks/border-radius-prewiever/border-radius-prewiever-form/border-radius-prewiever-form.css");
+@import url("./blocks/border-radius-prewiever/border-radius-prewiever-result/border-radius-prewiever-result.css");
+@import url("./blocks/border-radius-prewiever/border-radius-prewiever-popup/border-radius-prewiever-popup.css");
+@import url("./blocks/border-radius-prewiever/border-radius-prewiever-popup/_active/border-radius-prewiever-popup_active.css");
