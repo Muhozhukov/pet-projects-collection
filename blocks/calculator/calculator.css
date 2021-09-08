@@ -1,0 +1,14 @@
+@import url("./__container/calculator__container.css");
+@import url("./__display/calculator__display.css");
+@import url("./__buttons/calculator__buttons.css");
+@import url("./__button/calculator__button.css");
+@import url("./__button-text/calculator__button-text.css");
+@import url("./__title/calculator__title.css");
+@import url("./__display-entering/calculator__display-entering.css");
+@import url("./__display-entering/_small/calculator__display-entering_small.css");
+.calculator {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+}

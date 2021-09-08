@@ -1,0 +1,8 @@
+.calculator__display-entering {
+    color: white;
+    font-size: 90px;
+    margin: 0;
+    align-self: center;
+    font-family: 'SF UI Display';
+    font-weight: 200;
+}

@@ -1,0 +1,6 @@
+.calculator__button_orange {
+    background-color: rgb(255, 148, 0);
+}
+.calculator__button_orange:active {
+    background-color: rgb(255, 197, 116);;
+}

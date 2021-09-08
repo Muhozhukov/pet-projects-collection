@@ -1,0 +1,19 @@
+.calculator__button {
+    border-radius: 50%;
+    background-color: rgb(50, 50, 50);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    border: none;
+}
+.calculator__button:active {
+    background-color: rgb(100, 100, 100);
+}
+.calculator__button:hover {
+    cursor: pointer;
+}
+.calculator__button:focus {
+    outline: none;
+}

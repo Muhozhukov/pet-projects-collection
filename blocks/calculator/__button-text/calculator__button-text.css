@@ -1,0 +1,7 @@
+.calculator__button-text {
+    color: white;
+    font-size: 30px;
+    margin: 0;
+    user-select: none;
+    font-family: 'SF UI Display';
+}

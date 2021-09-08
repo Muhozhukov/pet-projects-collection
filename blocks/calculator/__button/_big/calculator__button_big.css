@@ -1,0 +1,6 @@
+.calculator__button_big {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    width: 175px;
+    border-radius: 100px;
+}

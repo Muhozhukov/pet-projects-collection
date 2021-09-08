@@ -1,0 +1,8 @@
+.calculator__display {
+    background-color: gray;
+    min-height: 108px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+    background-color: black;
+}

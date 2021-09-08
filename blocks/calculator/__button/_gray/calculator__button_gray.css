@@ -1,0 +1,6 @@
+.calculator__button_gray {
+    background-color: rgb(165, 165, 165);
+}
+.calculator__button_gray:active {
+    background-color: rgb(224, 224, 224);
+}
